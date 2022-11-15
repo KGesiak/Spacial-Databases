@@ -1,0 +1,27 @@
+Zad 1
+SUM: 189273.32699999996
+
+Zad 3
+SUM: 844026.3119999999
+
+Zad 4
+Średnia wysokość: 595.35
+Lotniska militarne: 8
+Lotniska militarne poniżej 1400m npm: 7
+
+Zad 5
+Liczba budynków: 5
+
+Zad 6
+Liczba budynków: 5
+
+Zad 7
+Liczba przecięć: 5
+
+Zad 8
+Liczba węzłów: 168
+
+Zad 10
+Tolerancja: 100m
+Zredukowane wierzchołki: 17
+Zmiana pola powierzchni: 2 177 736
