@@ -1,0 +1,2 @@
+Zadanie 3: Nawet po wielu próbach wczytania, błąd nie ustępował. Może być to spowodowane rozmiarem danych i mozaiki jaka ma powstać.
+Zadanie 11: Powstał pusty obiekt.
